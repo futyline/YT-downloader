@@ -1,0 +1,16 @@
+{
+  "name": "video-converter",
+  "version": "1.0.0",
+  "description": "converte seu link do youtube em audio/video",
+  "main": "converter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Futyline",
+  "license": "ISC",
+  "dependencies": {
+    "readline": "^1.3.0",
+    "ytdl-core": "^4.11.5"
+  }
+}
