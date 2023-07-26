@@ -14,6 +14,6 @@ fs: Também faz parte do conjunto de módulos do Node.js e não requer instalaç
 
 child_process: Também faz parte do conjunto de módulos do Node.js e não requer instalação separada.
 
-Além dessas bibliotecas, você também precisará ter o ffmpeg instalado em seu sistema e disponível no ambiente de execução do Node.js. O ffmpeg é um software externo que não é instalado via npm, mas é necessário para converter o arquivo de áudio para MP3. Você pode seguir as instruções específicas para o seu sistema operacional, conforme mencionei anteriormente, para instalar o ffmpeg.
+Além dessas bibliotecas, você também precisará ter o ffmpeg instalado em seu sistema e disponível no ambiente de execução do Node.js. O ffmpeg é um software externo que não é instalado via npm, mas é necessário para converter o arquivo de áudio para MP3. Você pode seguir as instruções específicas para o seu sistema operacional.
 
 Certifique-se de estar em um diretório de projeto válido ao executar o comando npm install ytdl-core. Isso criará uma pasta node_modules no diretório atual e instalará o ytdl-core lá.
